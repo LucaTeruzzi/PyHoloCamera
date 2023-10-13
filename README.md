@@ -122,8 +122,9 @@ bash system_setup.sh
 
 Here we just introduce a general workflow to control the camera from remote 
 <p align="center">
-<img src="https://github.com/LucaTeruzzi/PyHoloCamera/assets/83271765/46a63f4b-d7a6-4c17-8724-eeae64965bd8" width=45% height=45%>
+<img src="https://github.com/LucaTeruzzi/PyHoloCamera/assets/83271765/dc19cd94-72a3-46c1-b4e3-8574dd1af9e5" width=45% height=45%>
 </p>
+
 
 First, the Raspberry device connects to the camera and simultaneously recognizes any external storage
 device. Measurements can be started, stopped or paused by acting through RaspController on the proper GPIO channels of the Raspberry. 
